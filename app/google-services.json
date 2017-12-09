@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116579806035",
+    "firebase_url": "https://wantaim-task-manager.firebaseio.com",
+    "project_id": "wantaim-task-manager",
+    "storage_bucket": "wantaim-task-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116579806035:android:e05eedc0baa000dd",
+        "android_client_info": {
+          "package_name": "com.sudotechpng.android.wantaim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116579806035-885mv9p9ds702fa949kuvqt8slq80ue7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudotechpng.android.wantaim",
+            "certificate_hash": "79618f7603a62248154c6f7de8036ca011ff40ac"
+          }
+        },
+        {
+          "client_id": "116579806035-gc1ab9vq71l9slghbe3umcfia8cuttqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3_0F5jvS9mX_9WUPPH1ZHRLaT3zyoBPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116579806035-gc1ab9vq71l9slghbe3umcfia8cuttqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
